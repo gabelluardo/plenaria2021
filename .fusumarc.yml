@@ -1,8 +1,8 @@
 meta:
-  url:
+  url: https://gabelluardo.github.io/plenaria2021
   title: Plenaria 2021
   description:
-  siteName:
+  siteName: plenaria2021
   sns: ["twitter"]
 slide:
   loop: false
@@ -13,5 +13,3 @@ slide:
     effect:
   code:
     theme: okaidia
-  build:
-    useCache: false
