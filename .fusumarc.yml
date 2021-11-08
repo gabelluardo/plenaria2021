@@ -1,0 +1,17 @@
+meta:
+  url:
+  title: Plenaria 2021
+  description:
+  siteName:
+  sns: ["twitter"]
+slide:
+  loop: false
+  targetBlank: true
+  ui:
+    sidebar: false
+    pagination: progressbar
+    effect:
+  code:
+    theme: okaidia
+  build:
+    useCache: false

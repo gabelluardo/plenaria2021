@@ -1,0 +1,21 @@
+@import '@fusuma/client/assets/style/themes/webpack.css';
+@import "@fortawesome/fontawesome-free/css/all.css";
+
+.img {
+    padding: 7%;
+    padding-top: 0;
+
+}
+
+.double-img {
+    max-width: 50%;
+}
+
+.icon {
+    font-size: 2em;
+}
+
+h1,
+h2 {
+    margin-bottom: 30px;
+}

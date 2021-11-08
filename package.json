@@ -1,0 +1,21 @@
+{
+  "name": "plenaria2021",
+  "version": "1.0.0",
+  "description": "Presentation Elettronic and IT section of Policumbent Team",
+  "author": "Gabriele Belluardo",
+  "license": "CC BY-SA 4.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "fusuma start",
+    "start:prod": "fusuma start-prod",
+    "build": "fusuma build",
+    "deploy": "npm run build && fusuma deploy",
+    "pdf": "npm run build && fusuma pdf"
+  },
+  "devDependencies": {
+    "fusuma": "^2.8.4"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4"
+  }
+}
